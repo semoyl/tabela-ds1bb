@@ -1,0 +1,53 @@
+#empresas{
+    font-size: 30px;
+    font-style: italic;
+  }
+  #logotipo{
+      font-size: 30px;
+      font-style: italic;
+  }
+  #descricao{
+      font-size: 30px;
+    font-style: italic;
+  }
+  #link{
+      font-size: 30px;
+    font-style: italic;
+  }
+  #twitter{
+    width: 200px;
+  }
+  #riot{
+    width: 200px;
+  }
+  #valve{
+    width: 200px;
+  }
+  #x{
+    font-style: italic;
+    font-size: 26px
+  }
+  #riotgames{
+    font-style: italic;
+    font-size: 26px 
+  }
+  #val{
+    font-style: italic;
+    font-size: 26px
+  }
+  #AMD{
+    font-style: italic;
+    font-size: 26px
+  }
+  #amd{
+    width: 200px;
+  }
+  #EpicGames{
+    font-style: italic;
+    font-size: 26px;
+  }
+  #epicLogo{
+    width: 200px;
+  }
+  
+  
