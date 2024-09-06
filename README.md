@@ -19,4 +19,4 @@ Uma tabela, falando sobre algumas empresas, contendo o nome da empresa, o logoti
 
 ## Autor
 
-- [Gustavo Rocha](https://www.linkedin.com/in/gustavo-rocha-gomes-3b1442327/?trk=opento_sprofile_topcard)
+- [Gustavo Rocha Gomes](https://www.linkedin.com/in/gustavo-rocha-gomes-3b1442327/?trk=opento_sprofile_topcard)
